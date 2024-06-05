@@ -36,7 +36,7 @@
 * `pkg update`
 * `pkg install git`
 * `pkg install python`
-* `git clone https://github.com/mishakorzik/py-ddoser`
+* `git clone https://github.com/alexandro0246/ddos-artana`
 * `pip3 install requests`
 * `pip3 install fake_headers`
 * `pip3 install colorama`
